@@ -1,8 +1,10 @@
-# example-layout: Reference to organize future projects
-This `example-layout` project is created as a reference for our future projects.
+# Example Layout
+Reference to organize my future projects
 
-# Directories
-build *For executable files*\
-docs *Documentation*\
-src *Source directory*\
-tests *Directory for automated tests*
+## Structure
+| Directory  | Purpose          |
+| ---------- | ---------------- |
+| build      | Executable files |
+| docs       | Documentation    |
+| src        | Project source   |
+| tests      | Automated tests  |
